@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F66C03ED-BC84-42A5-AA8A-641A6B7659F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09AAE247-E012-4B69-9A16-0C95292A01CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelApp/Model/NetworkHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getHotel(cityCode:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09AAE247-E012-4B69-9A16-0C95292A01CF - 42c6a4edaa36503a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TravelApp.NetworkHelper.getHotel(cityCode: Swift.String, completion: (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;TravelApp.Hotel&gt;&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TravelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiparpron/Desktop/swiftPractice/TravelApp/TravelApp/TravelApp/Model/NetworkHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "09AAE247-E012-4B69-9A16-0C95292A01CF - 42c6a4edaa36503a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TravelApp.NetworkHelper.getHotel(cityCode: Swift.String, completion: (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;TravelApp.Hotel&gt;&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TravelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiparpron/Desktop/swiftPractice/TravelApp/TravelApp/TravelApp/Model/NetworkHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38381101-F39C-4E91-ADEF-F4801FA663A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelApp/Model/NetworkHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getHotel(cityCode:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C36223E5-5E1E-4B61-9952-FCAFE9A35243"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelApp/Model/NetworkHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getToken(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C36223E5-5E1E-4B61-9952-FCAFE9A35243 - 1600fb6bc3578cda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TravelApp.NetworkHelper.getToken(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "TravelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiparpron/Desktop/swiftPractice/TravelApp/TravelApp/TravelApp/Model/NetworkHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2054">
+               </Location>
+               <Location
+                  uuid = "C36223E5-5E1E-4B61-9952-FCAFE9A35243 - 7670feadbf53cd34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TravelApp.NetworkHelper.getToken(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "TravelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiparpron/Desktop/swiftPractice/TravelApp/TravelApp/TravelApp/Model/NetworkHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
